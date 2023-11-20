@@ -28,6 +28,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=comfort-twala&show_icons=true&locale=en&layout=compact" alt="comfort-twala" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=comfort-twala&show_icons=true&locale=en" alt="comfort-twala" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=comfort-twala&" alt="comfort-twala" /></p>
