@@ -1,5 +1,5 @@
 <h1 align="center">Hello Hello 👋, Comfort Here!</h1>
-<h3 align="center">A Junior Software Developer and Computer Sciences student based in Cape Town, South Africa!</h3>
+<h3 align="center">A Junior Software Developer based in Cape Town, South Africa!</h3>
 
 - 🌱 I’m currently learning **Arduino**
 
